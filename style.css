@@ -1,0 +1,28 @@
+html, body {
+  background:url('lgpier.jpg') center center no-repeat;
+  height: 100%;
+  background-size: cover;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+}
+
+#logo h1 {
+  font-family: 'Hammersmith One', sans-serif;
+  padding-top: 25px;
+  color: white;
+  text-align: center;
+  border-bottom: 1px grey;
+}
+
+#intro p {
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+  margin-top: 10px;
+}
+
+#counter .countdown {
+  text-align: center;
+  font-size: 3em;
+  margin:-20px 0 0;
+}
